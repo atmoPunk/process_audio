@@ -5,6 +5,11 @@ Simple python tool that can:
 - concatenate audio files
 - split an audio file by timestamps
 
+## dependenices
+
+- pydub
+- ffmpeg (to process different audio formats)
+
 ## examples
 
 ```
