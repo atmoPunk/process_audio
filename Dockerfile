@@ -12,4 +12,4 @@ RUN pip3 install -r requirements.txt
 
 COPY src/ .
 
-ENTRYPOINT ["python3", "./process_audio.py"]
+ENTRYPOINT ["./process_audio.py"]

@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 from pydub import AudioSegment
 import argparse
 import re
